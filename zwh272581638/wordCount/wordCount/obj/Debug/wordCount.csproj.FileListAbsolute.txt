@@ -1,0 +1,7 @@
+D:\wordCount\wordCount\wordCount\bin\Debug\wordCount.exe.config
+D:\wordCount\wordCount\wordCount\bin\Debug\wordCount.exe
+D:\wordCount\wordCount\wordCount\bin\Debug\wordCount.pdb
+D:\wordCount\wordCount\wordCount\obj\Debug\wordCount.csproj.CoreCompileInputs.cache
+D:\wordCount\wordCount\wordCount\obj\Debug\wordCount.exe
+D:\wordCount\wordCount\wordCount\obj\Debug\wordCount.pdb
+D:\wordCount\wordCount\wordCount\obj\Debug\wordCount.csprojAssemblyReference.cache
